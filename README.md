@@ -1,2 +1,3 @@
 # HR
-https://drive.google.com/file/d/1bpLGm-35qFLrdQA_agtPXvceMr0mGc7t/view?usp=share_link
+Dashboard on Google data studio:
+https://datastudio.google.com/embed/u/0/reporting/da7b6b7
